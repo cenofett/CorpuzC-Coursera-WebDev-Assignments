@@ -79,10 +79,10 @@ p {
 
 }
 @media (max-width: 767px) {
-  .col-lg-4 {
+  .mobile {
     float: left;
   }
-  .col-lg-4 {
+  .mobile {
     width: 100%;
   }
 }
