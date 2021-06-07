@@ -10,11 +10,6 @@ h1 {
 
 
 p {
-  display: 0;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
   border: 1px solid black;
   background-color: #999999;
   width: 100%;
