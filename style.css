@@ -78,7 +78,7 @@ p {
     width: 100%;
 
 }
-@media (min-width: 767px) {
+@media (max-width: 767px) {
   .col-lg-4 {
     float: left;
   }
